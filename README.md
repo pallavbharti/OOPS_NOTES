@@ -1,4 +1,4 @@
-# OOPS_NOTES
+
 Notes of OOPS (in c++)
 
 - GitHub Repo : https://github.com/riti2409/OOPS_NOTES
